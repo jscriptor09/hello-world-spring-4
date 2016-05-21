@@ -1,14 +1,5 @@
 package demo;
 
-<<<<<<< HEAD
-/**
- * Created by Mark on 5/20/2016.
- */
-public interface HelloWorldService {
-    void sayHello();
-}
-
-=======
 import org.springframework.stereotype.Component;
 
 /**
@@ -19,5 +10,3 @@ public interface HelloWorldService {
     public void sayHello();
 }
 
-
->>>>>>> origin/master
